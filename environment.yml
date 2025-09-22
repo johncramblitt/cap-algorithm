@@ -1,0 +1,13 @@
+name: cap-algorithm
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - xarray
+  - rioxarray
+  - matplotlib
+  - cartopy
+  - ipykernel
+  - dask
+  - rasterio
