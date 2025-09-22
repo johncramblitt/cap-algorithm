@@ -76,7 +76,7 @@ The **read_dem()** function automatically reads and formats .tif files for proce
 
 The domain of the file must be larger than the domain of interest to accomodate calculations involving nearby pixels. Specifically, the domain of interest must be padded on all sides by a length equal to half the user-chosen cross-valley distance (see discussion on cross-valley distance and critical radii below). This can be expressed by number of pixels as follows:
 
-$\text{\# of Margin Pixels} \geq \frac{r}{\text{DEM resolution}}$
+$\text{Number of Margin Pixels} \geq \frac{r}{\text{DEM resolution}}$
 
 ### **2. Calculate Terrain Stats**
 
