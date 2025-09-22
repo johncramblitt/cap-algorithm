@@ -2,7 +2,7 @@
 
 Version: 1.0.0
 
-DOI: #
+DOI: pending embargo
 
 Originally developed by Lundquist et al., [2008](#references), and implemented in Python in this repository by John Cramblitt with valuable input from Jessica Lundquist (Univ. of Washington, Seattle).
 
