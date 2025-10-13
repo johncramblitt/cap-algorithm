@@ -4,7 +4,7 @@ Version: 1.0.0
 
 DOI: pending embargo
 
-Originally developed by Lundquist et al., [2008](#references), and implemented in Python in this repository by John Cramblitt with valuable input from Jessica Lundquist (Univ. of Washington, Seattle).
+Originally developed by Lundquist et al., [2008](#references). Implemented in Python by John Cramblitt with valuable input from Jessica Lundquist (Univ. of Washington, Seattle).
 
 ## CONTACT
 
@@ -224,7 +224,7 @@ U.S. Geological Survey. (2024). 1 Arc-second Digital Elevation Models (DEMs) - U
         rank: array. REQUIRED. 2D numpy array of rank. 
 
     Returns:
-        2-dimensional array. Array of cold-air pooling signal for each pixel in the digital elevation model.
+        2-dimensional array. Array of CAP signal for each pixel in the digital elevation model.
             1 = CAP
             0 = no signal
            -1 = no CAP
