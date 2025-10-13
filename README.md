@@ -2,7 +2,7 @@
 
 Version: 1.0.0
 
-DOI: pending embargo
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17336302.svg)](https://doi.org/10.5281/zenodo.17336302)
 
 Originally developed by Lundquist et al., [2008](#references). Implemented in Python by John Cramblitt with valuable input from Jessica Lundquist (Univ. of Washington, Seattle).
 
