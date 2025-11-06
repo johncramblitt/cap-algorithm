@@ -2,7 +2,7 @@
 
 Version: 2.0.0
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17336302.svg)](https://doi.org/10.5281/zenodo.17336302)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17541537.svg)](https://doi.org/10.5281/zenodo.17541537)
 
 Version 2.0.0 corrects a typo in the curvature formula and improves handling of coordinate systems, including transitioning from the geographic WGS84 coordinate sytem (EPSG:4326) to the projected NAD83/Conus Albers coordinate system for accurate distance-dependent calculations of slope, rank and curvature. These corrections resulted in minor changes to terrain classifications, but are more faithful to the original algorithm of Lundquist et al., [2008](#references). Additionally, performance is now drastically improved through targeted improvements to the **get_rank_curvature()** function and calculations are now saved iteratively to a zarr directory. Some unecessary functions have been removed, and one helper function for rank calculations was added. 
 
