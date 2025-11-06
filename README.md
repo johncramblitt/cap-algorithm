@@ -1,4 +1,4 @@
-# **Python Implementation of Automated Algorithm to Map Regions of Cold-Air Pooling in Complex Terrain**
+# **Python Implementation of an Automated Algorithm to Map Regions of Cold-Air Pooling in Complex Terrain**
 
 Version: 2.0.0
 
