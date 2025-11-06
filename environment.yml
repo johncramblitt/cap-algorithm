@@ -11,3 +11,6 @@ dependencies:
   - ipykernel
   - dask
   - rasterio
+  - numba
+  - zarr
+  - scipy
