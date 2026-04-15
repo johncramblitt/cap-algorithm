@@ -113,7 +113,7 @@ CAP - cold-air pooling
 
 ## CITATION
 
-If you use this code, please cite this repository via its DOI and Lundquist et al., [2008](#references) for algorithm design. 
+If you use this code, please cite this repository via its DOI, and Lundquist et al., [2008](#references) for algorithm design. 
 
 ## LICENSE
 
