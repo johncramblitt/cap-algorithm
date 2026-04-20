@@ -1,4 +1,6 @@
-# **Python Implementation of an Automated Algorithm to Map Regions of Cold-Air Pooling in Complex Terrain**
+# **Python Implementation of an Automated Algorithm for Mapping Regions of Cold-Air Pooling in Complex Terrain**
+
+Cramblitt, J. & Lundquist, J.
 
 Cramblitt, J. & Lundquist, J.
 
@@ -115,7 +117,7 @@ CAP - cold-air pooling
 
 ## CITATION
 
-If you use this code, please cite this repository via its DOI and Lundquist et al., [2008](#references) for algorithm design. 
+If you use this code, please cite this repository via its DOI, and Lundquist et al., [2008](#references) for algorithm design. 
 
 ## LICENSE
 
