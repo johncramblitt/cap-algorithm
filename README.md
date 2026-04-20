@@ -2,8 +2,6 @@
 
 Cramblitt, J. & Lundquist, J.
 
-Cramblitt, J. & Lundquist, J.
-
 Version: 2.0.0
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17541537.svg)](https://doi.org/10.5281/zenodo.17541537)
